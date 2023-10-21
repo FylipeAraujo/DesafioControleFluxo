@@ -32,6 +32,4 @@ public class Contador {
     }
 }
 
-class ParametrosInvalidosException extends Exception {
-    // Exceção personalizada para indicar parâmetros inválidos
-}
+
